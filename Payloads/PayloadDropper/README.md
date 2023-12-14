@@ -19,7 +19,7 @@ Execute powershell script placed in a remote location. Following script uses MS1
 
 ### Screenshot
 <kbd>
-<img src="https://miro.medium.com/max/1000/1*7_m4dF9OqBjePqqRyJ1O-g.jpeg">
+<img src="https://i.ibb.co/59grbPs/archerhacked.jpg" >
 </kbd>
 
 # Fun Fact:
