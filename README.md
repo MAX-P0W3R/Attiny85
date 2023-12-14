@@ -15,6 +15,8 @@ I have created this repo for sharing my payloads for DigiSpark Attiny85. All the
 ## Getting Started
 For people that are new to this I would suggest visiting [Maker.pro](https://maker.pro/arduino/projects/how-to-build-a-rubber-ducky-usb-with-arduino-using-a-digispark-module) for instruction on setting up development environment for Attiny85.
 
+And the [YouTube](https://youtu.be/piSc3mdsbGY) that goes along with the maker.pro article.
+
 ## Digispark Attiny85 Specifications
 
 [Pinout and Configuration info](https://cyberblogspot.com/digispark-attiny85-pinout-and-configuration) 
