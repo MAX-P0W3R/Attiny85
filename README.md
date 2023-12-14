@@ -19,25 +19,25 @@ For people that are new to this I would suggest visiting [Maker.pro](https://mak
 
 [Pinout and Configuration info](https://cyberblogspot.com/digispark-attiny85-pinout-and-configuration) 
 
-> Support for the Arduino IDE 1.0+ (OSX/Win/Linux)
+- Support for the Arduino IDE 1.0+ (OSX/Win/Linux)
 
-> Power via USB or External Source – 5v or 7-35v (12v or less recommended, automatic selection)
+- Power via USB or External Source – 5v or 7-35v (12v or less recommended, automatic selection)
 
->  On-board 500ma 5V Regulator
+-  On-board 500ma 5V Regulator
 
-> Built-in USB
+- Built-in USB
 
-> 6 I/O Pins (2 are used for USB only if your program actively communicates over USB, otherwise you can use all 6 even if you are programming via USB)
+- 6 I/O Pins (2 are used for USB only if your program actively communicates over USB, otherwise you can use all 6 even if you are programming via USB)
 
-> 8k Flash Memory (about 6k after bootloader)
+- 8k Flash Memory (about 6k after bootloader)
 
-> I2C and SPI (vis USI)
+- I2C and SPI (vis USI)
 
-> PWM on 3 pins (more possible with Software PWM)
+- PWM on 3 pins (more possible with Software PWM)
 
-> ADC on 4 pins
+- ADC on 4 pins
 
-> Power LED and Test/Status LED
+- Power LED and Test/Status LED
 
 ## Payloads
 
